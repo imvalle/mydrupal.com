@@ -1,0 +1,27 @@
+/**
+ * Place your custom styles here.
+ */
+
+/* Pruebas con el css y el debug */
+/*
+body{background-color: yellow;}
+#navbar a{color:red;}
+#navbar a:hover{color:yellow;}
+*/
+
+.carousel-caption h3{color:white;}
+.collapse{float:right;
+          padding-top:60px;}
+.torb{background-color:#009035;
+      color:white;
+      text-align: center;
+      padding:5px 0;}
+h2 a{color:#009035;}
+.table-responsive {
+    overflow-x: auto;
+    min-height: 0.01%;
+    padding-bottom:15px; 
+    border-bottom:2px solid #009035;
+}
+
+

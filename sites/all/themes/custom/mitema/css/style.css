@@ -1,0 +1,20 @@
+.header {
+	display: block;
+	height: 250px;
+	background-color: black;
+}
+.logo {
+	width: 50%;
+	float: left;
+}
+.titulo {
+	width: 50%;
+	float: left;
+	color: white;
+	padding-top: 90px;
+}
+.navbar {
+	clear: both;
+}
+
+.content{color:green;}

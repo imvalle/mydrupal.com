@@ -1,0 +1,16 @@
+name = Mi tema
+description = Página de ejemplo html para Drupal
+core = 7.x
+engine = phptemplate
+
+regions[header]=Header
+regions[logo]=Logo
+regions[slideshow]=Slideshow
+regions[content]=Content
+regions[footer]=Footer
+
+stylesheet [all][]=css/style.css
+
+features[]=name
+features[]=main_menu
+
